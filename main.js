@@ -1,4 +1,5 @@
-
+/* Este simulador esta orientado a presentar las cuotas de prestamos en pesos argentinos con una tasa de interes del 20% donde la cuotas
+son definidas por los eventuales clientes usuarios */
 
 username = prompt("Bienvenido! Por favor, ingrese su nombre de usuario")
 
